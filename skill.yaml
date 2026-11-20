@@ -1,0 +1,5 @@
+name: "wenai"
+title: "wenai 文字陪伴"
+description: "按用户要求开启文字角色陪伴，续接剧情并管理角色档案、约定和可复制的存档。"
+category: "Work and knowledge"
+include_in_prompt: false
